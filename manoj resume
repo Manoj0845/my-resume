@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8"
+        <meta name="viewport" content="width=device-width,initial scale=1.0">
+        <title>My resume</title>
+    </head>
+    <body>
+        <center>
+            <h1>MANOJ NALAGORLA</h1>
+            <p>
+                Hyderabad,india<br/>
+                contact=9491052691<br/>
+                mail=manojnalagorla@gmail.com<br/>
+
+                
+            </p>
+
+            <p>
+                <a href=""https://github.com/">github</a>
+                <a href="https://linkedin.com/">linkedin</a>
+            </p>
+        </center>
+<hr/>
+
+<h2>career objective</h2>
+<p>
+    i am a motivated computer science student with a strong intrest in webdevelopment,python and dsa and artificial intelligence and problem solving.looking for technical oppurtunities to enhance my technical
+</p>
+<hr/>
+<h2>Education</h2>
+<table border="1" cellpadding="8">  
+    <tr>
+        <th>course</th>
+        <th>college</th>
+        <th>year</th>
+        <th>cgpa</th>
+    </tr>
+    <tr>
+        <td>b.tech(cse)</td>
+        <td>jntuh</td>
+        <td>2024-2027</td>
+        <td>8</td>
+
+    </tr>
+    <tr>
+        <td>intermediate</td>
+        <td>narayana junior college</td>
+        <td>2022-2024</td>
+        <td>95%</td>
+    </tr>
+    <tr>
+        <td>ssc</td>
+        <td>viswabharathi english medium school</td>
+        <td>2022</td>
+        <td>10 </td>
+    </tr>
+
+</table>
+
+<hr>
+<h2>technical skills</h2>
+<ul>
+    <li>html</li>
+    <li>css</li>
+    <li>python</li>
+    <li>javascript</li>
+
+</ul>
+<hr/>
+<h2>Projects
+
+</h2>
+<ol>
+    <li>personal portfolio website</li>
+    <li>student registration form</li>
+    <li>calculator</li>
+
+</ol>
+<hr/>
+<h2>certification</h2>
+<ul>
+    <li>python basics</li>
+    <li>html and css</li>
+
+</ul>
+<hr/>
+<h2>achievements</h2>
+<ul>
+    <li>solved coding problems</li>
+    <li>hackathons</li>
+</ul>
+<hr/>
+<h2>
+    Languages
+</h2>
+<li>english</li>
+<li>hindi</li>
+<li>telugu</li>
+<hr/>
+<h2>hobbies</h2>
+<ul>
+    <li>coding</li>
+    <li>learning ai</li>
+    <li>reading tech blogs</li>
+</ul>
+<hr/>
+<h2>contact</h2>
+<p>
+    phone:9491052691<br/>
+    email:manojnalagorla@gmail.com<br/>
+    github:<a href="https://github.com">github</a><br/>
+    linkedin:<a href="https://linkedin.com/">linkedin</a><br/>
+
+
+</p>
+<hr/>
+<h2>
+    declaration
+</h2>
+<p>
+    i hereby declare that the above information is true and correct to the best of my knowledge
+</p>
+<hr/>
+    </body>
+</html>
